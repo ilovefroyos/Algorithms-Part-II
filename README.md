@@ -1,2 +1,4 @@
 # Algorithms-Part-II
-Implementation of wordnet, seam carving, baseball elimination, boggle, and burrows-wheeler algorithms
+January 2018 - April 2018
+
+Guide: https://www.coursera.org/learn/algorithms-part2
